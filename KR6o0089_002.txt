@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:48.281350
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:27
 #+TITLE: 釋摩訶衍論記
 #+PROPERTY: CBETA_ID X46n0774
 #+PROPERTY: ID KR6o0089
